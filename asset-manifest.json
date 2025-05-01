@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/supabase-todo-app/static/css/main.e6c13ad2.css",
-    "main.js": "/supabase-todo-app/static/js/main.904d6f60.js",
-    "static/js/952.05b37013.chunk.js": "/supabase-todo-app/static/js/952.05b37013.chunk.js",
+    "main.css": "/supabase-todo-app/static/css/main.0776b2ee.css",
+    "main.js": "/supabase-todo-app/static/js/main.0da44328.js",
+    "static/js/198.ed834273.chunk.js": "/supabase-todo-app/static/js/198.ed834273.chunk.js",
     "static/js/453.04a12f8f.chunk.js": "/supabase-todo-app/static/js/453.04a12f8f.chunk.js",
     "index.html": "/supabase-todo-app/index.html",
-    "main.e6c13ad2.css.map": "/supabase-todo-app/static/css/main.e6c13ad2.css.map",
-    "main.904d6f60.js.map": "/supabase-todo-app/static/js/main.904d6f60.js.map",
-    "952.05b37013.chunk.js.map": "/supabase-todo-app/static/js/952.05b37013.chunk.js.map",
+    "main.0776b2ee.css.map": "/supabase-todo-app/static/css/main.0776b2ee.css.map",
+    "main.0da44328.js.map": "/supabase-todo-app/static/js/main.0da44328.js.map",
+    "198.ed834273.chunk.js.map": "/supabase-todo-app/static/js/198.ed834273.chunk.js.map",
     "453.04a12f8f.chunk.js.map": "/supabase-todo-app/static/js/453.04a12f8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.904d6f60.js"
+    "static/css/main.0776b2ee.css",
+    "static/js/main.0da44328.js"
   ]
 }
