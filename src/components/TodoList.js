@@ -16,7 +16,7 @@ const TodoList = () => {
       {todos.map((todo) => (
         <li key={todo.id}>
           {todo.text}
-          <button onClick={() => dispatch(deleteTodo(todo.id))}>Delete</button>
+          <button  class="delete-button" onClick={() => dispatch(deleteTodo(todo.id))}>Delete</button>
         </li>
       ))}
     </ul>

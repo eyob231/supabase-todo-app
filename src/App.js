@@ -5,6 +5,7 @@ import TodoList from './components/TodoList'
 import AddTodo from './components/AddTodo'
 import { fetchTodos } from './features/todoSlice'
 import { useDispatch } from 'react-redux'
+import './App.css'
 
 function AppWrapper() {
   return (
